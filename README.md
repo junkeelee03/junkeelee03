@@ -1,5 +1,6 @@
-# Hi there 👋
-#### 🔭 I’m currently working on everything!
+# Hi, my name is Jun Kee 👋
+
+## 🔭 I’m currently working on everything!
 ## 🌱 I’m currently learning the basics!
 ## 💬 Ask me about anything...
 ## 📫 How to reach me: [junlee01984@gmail.com](https://www.linkedin.com/in/jun-lee-b86840271)
