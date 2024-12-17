@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 ## 🔭 I’m currently working on everything!
 ## 🌱 I’m currently learning the basics!
 ## 💬 Ask me about anything...
